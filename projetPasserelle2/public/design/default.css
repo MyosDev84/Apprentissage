@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background-color: antiquewhite;
+    width: 100%;
+}
+
+
+.navBar ul{
+    background-color: aqua;
+    display: flex;
+}
+
+
+
+h1 {
+    color : red;
+    text-align: center;
+}
